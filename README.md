@@ -15,3 +15,6 @@ and you can also swipe to show other playerCard.
 3. npm install
 
 4. npm run
+
+
+## NOTE:- If you want to run the app, please download the repo from GitHub.
